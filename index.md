@@ -6,13 +6,37 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+> 要有一个远见，去见你所未见。
+>
+> 要让全人类走过的路，都算作我走过的路之一。——许倬云
 
 # About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’m currently a Master student in Pattern Recognition and Intelligent System advised by Associate Prof. [Zhaoxia Peng](./peng.mhtml), at Center for Research on Intelligent System and Engineering, Institute of Automation, Chinese Academy of Sciences. My research interests include multi-agent learning, deep reinforcement learning, and game theory.
+
+
+# Education
+*   2018.09 - 2021.06 : Master in Automotive Engineering, School of Transportation Science and Engineering, Beihang University, China, advised by Associate Prof. Zhaoxia Peng.
+*   2014.09 - 2018.06 : B.E. in Automotive Engineering, School of Transportation Science and Engineering, Beihang University, China.
+*   2011.09 - 2014.06 : Harbin No.3 High School, Harbin, China
+
+
+# Experiences
+
+
+# Publications
+
+
+
+# Awards & Honors
+
+
+
+# Contact
+
+
 
 ## Header 2
 
