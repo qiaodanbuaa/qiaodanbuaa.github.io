@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Dan Qiao]
 description: [Master student of Automotive Engineering, Beihang University, China; interested in multi-agent reinforcement learning]
+logo: /assets/img/photo.bmp
+show_downloads: true
