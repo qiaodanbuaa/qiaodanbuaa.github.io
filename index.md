@@ -62,10 +62,14 @@ Multi-agent Systems with Unknown Arbitrary Control Directions, Submitted to **_A
 # Awards & Honors
 
 * Oral Presentation in International Symposium on Automation, Information and Computing (ISAIC), 2020.
+
 * China Post-Graduate Mathematical Contest in Modeling, top 30%, 2020.
+
 * Excellent Scholarship for Postgraduate Entrance Examination, Beihang University, 2018.
 
 
 # Contact
-* mail: qiaodan@buaa.edu.cn
-* Researchgate: www.researchgate.net/profile/Dan_Qiao18
+* mail: [qiaodan@buaa.edu.cn](qiaodan@buaa.edu.cn)
+* Researchgate: [www.researchgate.net/profile/Dan_Qiao18](www.researchgate.net/profile/Dan_Qiao18)
+* Bilibili: [絵梨衣の小黄鸭](https://space.bilibili.com/14114218)
+* 知乎: [燃雪](https://www.zhihu.com/people/qiao-dan-55-92)
