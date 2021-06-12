@@ -9,14 +9,18 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 > 要人心之自由，胸襟开放。
+> 
 > 要拿全世界人类曾经走过的路，都要算是我走过的路之一。
+> 
 > 要有一个远见，能超越你未见。
+> 
 > 要想办法设想，我没见到的地方，那个世界还有可能什么样
+> 
 >  —— 许倬云
 
 # About Me
 
-I’m currently a Master student in Pattern Recognition and Intelligent System advised by Associate Prof. [Zhaoxia Peng](./peng.mhtml), at Center for Research on Intelligent System and Engineering, Institute of Automation, Chinese Academy of Sciences. My research interests include multi-agent learning, deep reinforcement learning, and game theory.
+I’m currently a Master student in Pattern Recognition and Intelligent System advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.htm), at Center for Research on Intelligent System and Engineering, Institute of Automation, Chinese Academy of Sciences. My research interests include multi-agent learning, deep reinforcement learning, and game theory.
 
 
 # Education
