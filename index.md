@@ -5,9 +5,9 @@
 
 # About Me
 
-I’m currently a Master student in Automotive Engineering advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.htm), at School of Transportation Science and Engineering, Beihang University.
+I’m currently a research assistant advised by Associate Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) in the Institute of Automation, Chinese Academy of Sciences (CASIA). Before that, I got my Master Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.htm), at School of Transportation Science and Engineering, Beihang University.
 
-My research interests include **Multi-agent System, Multi-robot Formation Control, Multi-agent Reinforcement Learning**.
+My research interests include **Multi-agent System, Multi-agent Reinforcement Learning**, Multi-robot Cooperation Control.
 
 
 # Education
