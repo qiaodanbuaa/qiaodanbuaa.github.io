@@ -20,6 +20,14 @@ My research interests include **Multi-agent System, Multi-robot Formation Contro
 
 # Research Experiences
 
+
+- **Differential Privacy Protected Fully Decentralized Multi-agent Reinforcement Learning for networked systems**
+
+  - Introduce the Laplace noise-based Differential Privacy technique into the QD-Learning to protect the Q-table which may be associated with agent's privacy information.  
+  - Prove the mean square convergence and expectation convergence of DP-QD-Learning. Provide the theoretical boundary of the variance of the convergence value.
+  - Evaluate the DP-QD-Learning on the finite state-action tabular environment, which is capable to represent many social systems such as the center bank monetory policy influence.
+  - Prove the \epsilon-differential privacy degree for the DP-QD-Leanring. (In progress)
+
 - **Multi-consensus based Formation Tracking and Splitting**
 
   - Prescribed Time Convergence, Multi-consensus, Switching Topology, Formation Splitting and Merging.  
@@ -39,6 +47,7 @@ My research interests include **Multi-agent System, Multi-robot Formation Contro
 
 - **Minor Research**
 
+  - Decentralized Training Decentralized Excution (DTDE) MARL, open ad-hoc in networked MARL.
   - Switching topology, Cooperative-Comepetitive topology, Cluster Consensus, and Signed Weighted Networks.  
   - Complex Networks, Opinion Dynamics, Social Power, and Spectual Theory in Brain Networks.
 
@@ -49,20 +58,25 @@ My research interests include **Multi-agent System, Multi-robot Formation Contro
 
 # Publications
 
-* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, A coupled electrochemical-thermal-mechanical degradation modelling
-approach for lifetime assessment of lithium-ion batteries, **_Electrochimica Acta, vol. 326_**, 2020
+* **D. Qiao**, J. Zhang*, Y. Zhang, H. Chen, S. Xiao, Privacy-preserved Fully Decentralized Networked Multi-agent Reinforcement Learning  for Social Systems, Comming soon on Arxiv.
+
+* **D. Qiao**, G. Wen, Z. Peng*, Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of
+Multi-agent Systems with Unknown Arbitrary Control Directions, Submitted to **_Automatica_**. 2021.
 
 * Z. Peng, **D. Qiao***, G. Wen, B. Wu, Observer and RBF NN based Sliding-Mode Robust Formation Tracking for Nonholonomic
 Mobile Robots with Dynamics Model, Submitted to **_Transactions of the Institute of Measurement and Control_**, Primary Author. 2021.
 
-* **D. Qiao**, G. Wen, Z. Peng*, Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of
-Multi-agent Systems with Unknown Arbitrary Control Directions, Submitted to **_Automatica_**. 2021.
+* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, A coupled electrochemical-thermal-mechanical degradation modelling
+approach for lifetime assessment of lithium-ion batteries, **_Electrochimica Acta, vol. 326_**, 2020
+
+
+
 
 
 # Awards & Honors
 
 * Oral Presentation in International Symposium on Automation, Information and Computing (ISAIC), 2020.
-* China Post-Graduate Mathematical Contest in Modeling, top 30%, 2020.
+* China Post-Graduate Mathematical Contest in Modeling, 2020.
 * Excellent Scholarship for Postgraduate Entrance Examination, Beihang University, 2018.
 
 
